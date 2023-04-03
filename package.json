@@ -1,0 +1,22 @@
+{
+  "name": "electronjs-learing",
+  "version": "1.0.0",
+  "description": "electronjs-learing 🧪🧪🧪",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZXinL-CN/electronjs-learing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZXinL-CN/electronjs-learing/issues"
+  },
+  "homepage": "https://github.com/ZXinL-CN/electronjs-learing#readme",
+  "dependencies": {
+    "electron": "^23.2.1"
+  }
+}
